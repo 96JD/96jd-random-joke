@@ -1,0 +1,11 @@
+{
+	"manifest_version": 3,
+	"version": "1.0.0",
+	"name": "96JD Random Joke",
+	"description": "When you're feeling bored and in need of a quick laugh!",
+	"author": "Jacob Dolorzo",
+	"action": {
+		"default_title": "96JD Random Joke",
+		"default_popup": "index.html"
+	}
+}
