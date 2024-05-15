@@ -15,4 +15,4 @@ Chrome extension that adds an element of humor to your browsing experience by de
 
 ## Chrome Web Store
 
-[https://chromewebstore.google.com/detail/96jd-random-joke/aochjhlkahoepmlifjikkhopkpdoipio](https://chromewebstore.google.com/detail/96jd-random-joke/aochjhlkahoepmlifjikkhopkpdoipio)
+[https://chromewebstore.google.com/detail/96jd-random-joke/lfjdigljhljepmlegkkhmmdoegilhecc](https://chromewebstore.google.com/detail/96jd-random-joke/lfjdigljhljepmlegkkhmmdoegilhecc)
